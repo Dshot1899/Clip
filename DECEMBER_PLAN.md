@@ -1,5 +1,7 @@
 # Get Paid From Clipping by December 31 — Start-Here Plan
 
+> ⚠ **Superseded:** follow `FINAL_PLAN.md` instead. This file is kept for reference.
+
 _Written Nov 24, 2026. Platform details come from third-party guides that sometimes disagree with each other. **Always read each platform's and campaign's own rules page before you post.**_
 
 ---
